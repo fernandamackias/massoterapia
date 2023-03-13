@@ -1,0 +1,42 @@
+
+nao
+
+
+
+body{
+background-image:url(logo.png);
+background-repeat: no-repeat;
+background-position: top center;
+}
+
+a:hover{color:rgb(197, 248, 10)}
+a:visited{color:#8fbe00}
+nav{
+    font-size: 20px;
+}
+
+
+
+table{
+    border:50px;
+    border-color: #029daf;
+    text-align:center;
+    font-size:25px;
+
+    
+    
+
+}
+
+footer{
+    text-align: center;
+    background-color: #8fbe00;
+}
+
+.fotos{
+display: flex;
+flex-wrap:wrap;
+justify-content:space-around;
+box-shadow: 5px 5px 5px #8fbe00;
+
+}
